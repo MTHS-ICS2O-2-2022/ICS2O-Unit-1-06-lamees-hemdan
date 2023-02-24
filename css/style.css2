@@ -11,24 +11,24 @@
 }
 
 .mdl-layout__header-row {
-  justify-content: center;
-  padding: 0;
-  color: beige;
+  justify-content : center;
+  padding : 0;
+  color : beige;
 }
 
 .mdl-layout__content {
-  padding-left: 30pt;
-  padding-top: 20pt;
-  padding-right: 20pt;
-  color: beige;
+  padding-left : 30pt;
+  padding-top : 20pt;
+  padding-right : 20pt;
+  color : beige;
 }
 
 .page-content {
-  color: bisque;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 2 rem;
+  color :bisque;
+  font-family : Helvetica,Arial,sans-serif;
+  font-size : 2 rem;
 }
 
 body {
-  background-color: coral;
+  background-color : coral;
 }
