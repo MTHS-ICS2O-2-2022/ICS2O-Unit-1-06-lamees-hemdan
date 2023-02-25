@@ -5,7 +5,6 @@
 
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
-
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
@@ -22,6 +21,10 @@
   padding-top: 20 pt;
   padding-right: 20 pt;
   color: beige;
+}
+
+.mdl-texfield__error {
+  color: cadetblue;
 }
 
 .page-content {

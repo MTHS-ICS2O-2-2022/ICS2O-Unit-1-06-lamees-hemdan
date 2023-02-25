@@ -23,6 +23,10 @@
   color: beige;
 }
 
+.mdl-texfield__error {
+  color: cadetblue;
+}
+
 .page-content {
   color: cornsilk;
   font-family: Georgia, 'Times New Roman', Times, serif;
