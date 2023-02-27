@@ -13,26 +13,30 @@
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
-  color:beige;
+  color: beige;
 }
 
 .mdl-layout__content {
-  padding-left:30 pt;
-  padding-top:20 pt;
-  padding-right:20 pt;
-  color:beige;
+  padding-left: 30 pt;
+  padding-top: 20 pt;
+  padding-right: 20 pt;
+  color: beige;
 }
 
 .mdl-texfield__error {
-  color:cadetblue;
+  color: cadetblue;
 }
 
 .page-content {
-  color:blanchedalmond;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: blanchedalmond;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 2 rem;
 }
 
 body {
-  background-color:darkgray;
+  background-color: darkgray;
+}
+
+p {
+  padding-right: 100 px;
 }
